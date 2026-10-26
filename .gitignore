@@ -1,0 +1,10 @@
+# Environnements virtuels
+.venv/
+env/
+
+# Cache Python
+__pycache__/
+*.pyc
+
+# Checkpoints Jupyter
+.ipynb_checkpoints/
